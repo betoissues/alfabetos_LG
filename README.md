@@ -27,7 +27,3 @@
 | :---:  | :---:  | :---:  |
 | S1     | S2     | S1     |
 | S2     | S1     | S2     |
-
-# Related Links
-
-[How to use dictionary of functions as a switch statement](https://bytebaker.com/2008/11/03/switch-case-statement-in-python/)
